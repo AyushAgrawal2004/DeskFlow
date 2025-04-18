@@ -49,7 +49,7 @@ A modern, feature-rich workspace management system built with PHP and MySQL. Des
    cd DeskFlow
 
    # Import database
-   mysql -u root -p < coworking2.sql
+   mysql -u root -p < project/coworking2.sql
 
    # Configure database connection
    # Edit project/dbconnect.php with your database credentials
@@ -132,7 +132,7 @@ For support, create an issue in the repository or contact the maintainer.
 
 ## Screenshots
 
-[Add screenshots of key features here]
+![DeskFlow Screenshot](Screenshot%202025-04-18%20200753.png)
 
 ## Roadmap
 
